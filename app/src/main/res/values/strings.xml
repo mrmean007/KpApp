@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">KpApp</string>
+    <array name="categaries">
+        <item>Road</item>
+        <item>Trafic</item>
+        <item>Waste</item>
+        <item>Others</item>
+    </array>
+    <string name="title_activity_maps">Map</string>
+</resources>
